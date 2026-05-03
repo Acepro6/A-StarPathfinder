@@ -2,7 +2,7 @@
 
 ## Author
 Arthur Fritzke (AAF819)
-aaf819@usask.ca
+aaf819@campus.usask.ca
 
 ## About
 A small A-star pathfinding algorithm written in C# as a script to be used in Unity.
